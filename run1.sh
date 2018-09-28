@@ -1,0 +1,2 @@
+javac ConstraintsCreator.java
+java ConstraintsCreator test
